@@ -5,7 +5,7 @@ A simple To-Do List application built with Python and MySQL.
 
 ## Screenshot
 
-![To-Do Database Screenshot](./screenshot.png)
+![To-Do Database Screenshot](./Screenshot.png)
 
 ## Features
 
